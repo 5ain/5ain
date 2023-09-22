@@ -1,7 +1,7 @@
 <h1 align="center">Opa, meu nome é 5ain.</h1>
 <h3 align="center">Sou um fullstacker brasileiro</h3>
 
-- Estudando **Javascript,HTML e CSS**
+- Estudando **Javascript, HTML e CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
